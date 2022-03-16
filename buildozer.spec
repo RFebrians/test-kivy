@@ -36,7 +36,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,kivymd,wolframalpha,wikipedia,requests,webbrowser,time,pyttsx3,http.client
+requirements = python3,kivy,kivymd,wolframalpha,wikipedia,requests,pyttsx3,http_client
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
